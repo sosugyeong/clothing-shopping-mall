@@ -16,10 +16,8 @@
 - **Framework** : Springbook()
 - **Database** : PostgreSQL()
 - **ORM** : Hibernate
-- **CI/CD** :
-- **Server** : 
 - **버전 관리** : Git
-
+<br>
 ## 🔥Stacks
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
